@@ -17,7 +17,7 @@ body {
 }
 
 
-.card {
+main {
     width: 320px;
     height: 499px;
 
@@ -37,7 +37,7 @@ body {
     margin-bottom: 24px;
 }
 
-main {
+section {
     padding: 0 16px 0 16px;
 }
 
